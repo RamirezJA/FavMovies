@@ -1,7 +1,7 @@
                             List of favorite Movies 1.0
 What is it?
 ---------------
-It is a program written in python that presents a list of my favorite movies in html.
+It is a program written in python that presents a list of my favorite movies in html. This program can be downloaded from my github at jdevla.
 
 Latest Version
 ---------------
