@@ -17,4 +17,4 @@ This program requires Python 2.7 to run.Once in IDLE run module from ent_cent.py
 
 Contacts
 --------------
-Find me on github at jdevla!
+Find me on github at RamirezJA!
