@@ -37,8 +37,8 @@ fantastic_planet = media.Movie(
 the_foreigner = media.Movie(
     "The Foreigner",
     "Action",
-    "https://en.wikipedia.org/wiki/The_Foreigner_(2017_film)#"
-    "/media/File:The_Foreigner_(2017_film).jpg",
+    "https://upload.wikimedia.org/wikipedia/en/0/05"
+    "/The_Foreigner_%282017_film%29.jpg",
     "https://www.youtube.com/watch?v=33iuQu3UtjI")
 
 beverly_hills_ninja = media.Movie(
