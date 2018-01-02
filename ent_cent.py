@@ -35,11 +35,11 @@ fantastic_planet = media.Movie(
     "https://www.youtube.com/watch?v=SgCxCZNkQ9E")
 
 the_wedding_singer = media.Movie(
-    "The Wedding Singer",
-    "Funny",
-    "https://upload.wikimedia.org/wikipedia/en"
-    "/8/84/The_Wedding_Singer_film_poster.jpg",
-    "https://www.youtube.com/watch?v=_bhU3NsCIDs")
+    "The Foreigner",
+    "Action",
+    "https://en.wikipedia.org/wiki/The_Foreigner_(2017_film)#"
+    "/media/File:The_Foreigner_(2017_film).jpg",
+    "https://www.youtube.com/watch?v=33iuQu3UtjI")
 
 beverly_hills_ninja = media.Movie(
     "Beverly Hills Ninja",
