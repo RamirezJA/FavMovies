@@ -34,7 +34,7 @@ fantastic_planet = media.Movie(
     "/5/55/Fantstic-planet-poster.jpg",
     "https://www.youtube.com/watch?v=SgCxCZNkQ9E")
 
-the_wedding_singer = media.Movie(
+the_foreigner = media.Movie(
     "The Foreigner",
     "Action",
     "https://en.wikipedia.org/wiki/The_Foreigner_(2017_film)#"
