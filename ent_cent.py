@@ -56,6 +56,5 @@ movies = [
     easy_rider,
     bloodsport,
     fantastic_planet,
-    the_wedding_singer,
     beverly_hills_ninja]
 fresh_tomatoes.open_movies_page(movies)
